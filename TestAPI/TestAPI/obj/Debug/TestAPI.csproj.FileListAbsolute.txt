@@ -60,3 +60,6 @@ C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\bin\Microsoft.Owin.Secur
 C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\bin\System.Web.Http.Owin.xml
 C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\obj\Debug\TestAPI.dll
 C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\obj\Debug\TestAPI.pdb
+C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\obj\Debug\TestAPI.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\obj\Debug\TestAPI.Migrations.test.resources
+C:\Users\User\Documents\GitHub\MyWebApp\TestAPI\TestAPI\obj\Debug\TestAPI.csproj.GenerateResource.Cache
